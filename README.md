@@ -1,4 +1,4 @@
-# bookish-octo-waddle
+# Poker Project -Python 3
 
 EDIT: Until further notice, this project is going to be delayed due to the difficulty behind Machine learning, in the mean time, im covering other projects and will return to this after completing more ML projects
 

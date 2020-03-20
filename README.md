@@ -1,12 +1,22 @@
 # Poker Project -Python 3
 
-EDIT: Until further notice, this project is going to be delayed due to the difficulty behind Machine learning, in the mean time, im covering other projects and will return to this after completing more ML projects
+EDIT: Until further notice, this project is going to be delayed due to the difficulty behind Machine learning, in the mean time, im covering other projects and will return to this after completing more ML projects. 
 
+The poker hand evaluator is the fastest poker hand evaluator in Python on GitHub. 
+
+5 card:
+Deuces evaluates 230K hands a second and my evaluator runs just shy of 420K hands a second for 5 card hand analysis. 
+
+7 card: 
+Deuces evaluates 15220 hands a second and my evaluator runs at 250K hands a second which is significantly faster than Deuces 
+
+This section below is just for my friends who were supposed to help me with the project initially: 
+-----------------------------------------------------------------------------------------------------------------------
 In order to run the file:
 
 please run the Engine file Python Poker Project
 
-So welcome to the python poker project this is the initial plan and I hope it works well if know anyone potentially interested in this let me know.
+So welcome to the python poker project this is the initial plan and I hope it works well if you know anyone potentially interested in this let me know.
 
 Firstly you should know the rules of poker and how to play. Here is a link on how to play the game. https://www.pokerstarsschool.com/article/Poker-Basics-04-How-to-Play-No-Limit-Texas-Hold-em
 

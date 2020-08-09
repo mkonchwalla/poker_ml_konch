@@ -1,6 +1,6 @@
 # Poker Project -Python 3
 
-EDIT: Until further notice, this project is going to be delayed due to the difficulty behind Machine learning, in the mean time, im covering other projects and will return to this after completing more ML projects. 
+EDIT: Until further notice, this project is going to be delayed due to the difficulty behind effectively implementing Deep Reinforcement nerual networks. In the mean time, im covering other projects and will return to this after completing more ML projects. The bot is functioning. It works primarily by using standard GTO ranges preflop and uses Bayesian Inference to adjust the presumed hand ranges of its opponents. On the Flop, Turn and River, it computes E.V of each action and takes the most appropriate line. This means the bot is quite exploitable post flop as ranges arent necessarily balanced. 
 
 The poker hand evaluator is the fastest poker hand evaluator in Python on GitHub. 
 
@@ -10,7 +10,7 @@ Deuces evaluates 230K hands a second and my evaluator runs just shy of 420K hand
 7 card: 
 Deuces evaluates 15220 hands a second and my evaluator runs at 250K hands a second which is significantly faster than Deuces 
 
-This section below is just for my friends who were supposed to help me with the project initially: 
+This section below was just for my friends who were supposed to help me with the project initially: 
 -----------------------------------------------------------------------------------------------------------------------
 In order to run the file:
 
